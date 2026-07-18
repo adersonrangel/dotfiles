@@ -50,3 +50,18 @@
 2026-07-18T15:18:25.598339Z  INFO herdr::server::headless: client detach requested via keybind client_id=2
 2026-07-18T15:18:25.627871Z  INFO herdr::server::headless: client disconnected client_id=2
 2026-07-18T15:18:25.645351Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/arangel/.config/herdr/session.json workspaces=1
+2026-07-18T17:08:42.519949Z  INFO herdr::api::server: api server listening path=/home/arangel/.config/herdr/herdr.sock
+2026-07-18T17:08:42.542333Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-07-18T17:08:42.560605Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=33134
+2026-07-18T17:08:42.563981Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=1
+2026-07-18T17:08:42.564278Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-07-18T17:08:42.671352Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-18T17:08:42.685179Z  INFO herdr::server::headless: restored session already has workspaces; ignoring startup cwd cwd=/home/arangel
+2026-07-18T17:08:42.686136Z  INFO herdr::server::headless: client protocol socket listening path=/home/arangel/.config/herdr/herdr-client.sock
+2026-07-18T17:08:42.686556Z  INFO herdr::server::headless: herdr server started api_socket=/home/arangel/.config/herdr/herdr.sock client_socket=/home/arangel/.config/herdr/herdr-client.sock
+2026-07-18T17:08:42.686813Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=33128
+2026-07-18T17:08:42.761785Z  INFO herdr::server::headless: client connected client_id=2 cols=236 rows=50 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-07-18T17:08:47.246490Z  WARN herdr::raw_input: flushing lone escape after input timeout; if this follows an alt chord or focus switch it may reach the pane as plain esc bytes=[27]
+2026-07-18T17:09:57.762333Z  WARN herdr::raw_input: flushing lone escape after input timeout; if this follows an alt chord or focus switch it may reach the pane as plain esc bytes=[27]
+2026-07-18T17:09:57.625473Z  INFO herdr::server::headless: client detach requested via keybind client_id=2
+2026-07-18T17:09:57.648605Z  INFO herdr::server::headless: client disconnected client_id=2

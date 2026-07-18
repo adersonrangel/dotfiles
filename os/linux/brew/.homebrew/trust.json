@@ -1,0 +1,6 @@
+{
+  "trustedformulae": [
+    "anomalyco/tap/opencode",
+    "oven-sh/bun/bun"
+  ]
+}

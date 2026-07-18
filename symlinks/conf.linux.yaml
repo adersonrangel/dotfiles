@@ -8,6 +8,7 @@
 - link:
     ~/.dotly: os/linux/.dotly
     ~/.gitconfig: git/.gitconfig
+    ~/.homebrew: os/linux/brew/.homebrew
     ~/.config/nvim: editors/nvim
     ~/.config/herdr: editors/herdr
     ~/.config/lazygit: editors/lazygit
