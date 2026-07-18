@@ -1,5 +1,7 @@
 # Agent multiplexer that lives in your terminal
 brew "herdr"
+# Simple terminal UI for git commands
+brew "lazygit"
 # Ambitious Vim-fork focused on extensibility and agility
 brew "neovim"
 cargo "docpars"

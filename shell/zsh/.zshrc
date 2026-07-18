@@ -30,4 +30,3 @@ source "$DOTFILES_PATH/shell/zsh/key-bindings.zsh"
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv zsh)"
 
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv zsh)"
