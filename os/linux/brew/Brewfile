@@ -1,0 +1,5 @@
+# Agent multiplexer that lives in your terminal
+brew "herdr"
+# Ambitious Vim-fork focused on extensibility and agility
+brew "neovim"
+cargo "docpars"
